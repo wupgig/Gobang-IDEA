@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36e6a88d-8f1f-4eb6-a243-1d9f74183937" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\IDEA\repository" />
+        <option name="mavenHome" value="D:/java_install/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\java_install\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1r6nzwn1WjSMNY0ss81g5XFn6cp" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-5.1.7-bin.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idaeJava\gobang" />
+      <recent name="D:\idaeJava\gobang\src\com\wupgig" />
+      <recent name="D:\idaeJava\gobang\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GobangMainApplication" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wupgig.main.GobangMainApplication" />
+      <module name="gobang" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wupgig.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GobangMainApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36e6a88d-8f1f-4eb6-a243-1d9f74183937" name="Default Changelist" comment="" />
+      <created>1618305672564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618305672564</updated>
+      <workItem from="1618305675920" duration="610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618306286442">
+      <screen x="0" y="0" width="1440" height="928" />
+    </state>
+    <state x="176" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.928@0.0.1440.928" timestamp="1618306286442" />
+    <state x="501" y="219" key="FileChooserDialogImpl" timestamp="1618306085136">
+      <screen x="0" y="0" width="1440" height="928" />
+    </state>
+    <state x="501" y="219" key="FileChooserDialogImpl/0.0.1440.928@0.0.1440.928" timestamp="1618306085136" />
+    <state width="1397" height="237" key="GridCell.Tab.0.bottom" timestamp="1618306350197">
+      <screen x="0" y="0" width="1440" height="928" />
+    </state>
+    <state width="1397" height="237" key="GridCell.Tab.0.bottom/0.0.1440.928@0.0.1440.928" timestamp="1618306350197" />
+    <state width="1397" height="237" key="GridCell.Tab.0.center" timestamp="1618306350197">
+      <screen x="0" y="0" width="1440" height="928" />
+    </state>
+    <state width="1397" height="237" key="GridCell.Tab.0.center/0.0.1440.928@0.0.1440.928" timestamp="1618306350197" />
+    <state width="1397" height="237" key="GridCell.Tab.0.left" timestamp="1618306350196">
+      <screen x="0" y="0" width="1440" height="928" />
+    </state>
+    <state width="1397" height="237" key="GridCell.Tab.0.left/0.0.1440.928@0.0.1440.928" timestamp="1618306350196" />
+    <state width="1397" height="237" key="GridCell.Tab.0.right" timestamp="1618306350197">
+      <screen x="0" y="0" width="1440" height="928" />
+    </state>
+    <state width="1397" height="237" key="GridCell.Tab.0.right/0.0.1440.928@0.0.1440.928" timestamp="1618306350197" />
+    <state x="51" y="52" key="SettingsEditor" timestamp="1618306269745">
+      <screen x="0" y="0" width="1440" height="928" />
+    </state>
+    <state x="51" y="52" key="SettingsEditor/0.0.1440.928@0.0.1440.928" timestamp="1618306269745" />
+  </component>
+</project>
