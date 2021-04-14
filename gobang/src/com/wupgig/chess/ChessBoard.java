@@ -564,7 +564,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月30日下午3:02:32
-	* @param pane
 	 */
 	private void addTextBox() {
 		// 消息发送文本框
@@ -601,7 +600,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月29日下午4:43:31
-	* @param pane
 	 */
 	private void addText() {
 		// 在棋盘上画线
@@ -621,7 +619,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月30日下午1:35:41
-	* @param pane
 	 */
 	private void waitText() {
 		this.waitText.setFill(Color.RED);
@@ -734,7 +731,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月29日下午4:47:29
-	* @param pane
 	 */
 	private void addPlay() {
 		userPlaytext = new Text(670, 70, "在线玩家,点击名字请求对战");
@@ -751,7 +747,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月22日下午11:03:39
-	* @param pane
 	 */
 	private void drawLine() {
 		// 在棋盘上绘制出15条横线
@@ -781,7 +776,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月22日下午11:04:10
-	* @param pane
 	 */
 	private void drawFivePoint() {
 		Circle circle1 = new Circle(170, 170, 4);
@@ -1704,7 +1698,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月22日下午11:46:33
-	* @param pane
 	 */
 	private void addButton() {
 		// 新局按钮
@@ -1750,7 +1743,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年4月6日下午10:20:20
-	* @param pane
 	 */
 	private void otherButton() {
 		// 创建下拉按钮
@@ -1846,7 +1838,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年4月6日下午11:00:28
-	* @param pane
 	* @return
 	 */
 	private Button giveUpButton() {
@@ -1918,7 +1909,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月31日下午3:33:03
-	* @param pane
 	 */
 	private void prevPageButton() {
 		prevPageButton = new Button("上一页");
@@ -1941,7 +1931,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月31日下午3:45:01
-	* @param pane
 	 */
 	private void prevPage() {
 		if (index == 0) {
@@ -1960,7 +1949,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月31日下午3:33:37
-	* @param pane
 	 */
 	private void nextPageButton() {
 		nextPageButton = new Button("下一页");
@@ -1982,7 +1970,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月31日下午3:46:38
-	* @param pane
 	 */
 	private void nextPage() {
 		// 当前在线玩家总个数
@@ -2005,7 +1992,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月30日下午3:12:34
-	* @param pane
 	 */
 	private void messageButton() {
 		Button messageButton = new Button("发 送");
@@ -2029,7 +2015,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月30日下午3:44:55
-	* @param pane
 	 */
 	private void sendMessage() {
 		String message = messageText.getText().trim();
@@ -2070,7 +2055,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月30日上午8:31:41
-	* @param pane
 	 */
 	private void refreshButton() {
 		refreshButton = new Button("刷     新");
@@ -2090,7 +2074,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月31日下午4:00:33
-	* @param pane
 	 */
 	private void refresh() {
 		// 重置分页索引
@@ -2104,7 +2087,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月23日上午8:06:47
-	* @param pane
 	 */
 	private void againButton() {
 		Button button = new Button("新      局");
@@ -2143,7 +2125,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月23日上午8:07:13
-	* @param pane
 	 */
 	private void startNew(String rivalAccount) {
 		this.isBlack = true;
@@ -2190,7 +2171,7 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年4月1日上午11:28:00
-	* @param account
+	* @param rivalAccount 对手账号
 	 */
 	private void addStartText(String rivalAccount)  {
 		// 我方账号
@@ -2241,7 +2222,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月23日上午8:13:15
-	* @param pane
 	 */
 	private void exitButton() {
 		Button button = new Button("退     出");
@@ -2292,7 +2272,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月23日上午8:19:48
-	* @param pane
 	 */
 	private void saveChessBookButton() {
 		Button button = new Button("保存棋谱");
@@ -2363,7 +2342,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月23日上午8:23:33
-	* @param pane
 	 */
 	private void openChessBookButton() {
 		Button button = new Button("打开棋谱");
@@ -2385,7 +2363,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月23日上午8:24:01
-	* @param pane
 	 */
 	private void openChessBook() {
 		if (!gameOver) {
@@ -2467,7 +2444,6 @@ public class ChessBoard extends Stage{
 	* @date 2021年3月23日上午8:24:50
 	* @param count
 	* @param chessList
-	* @param pane
 	 */
 	private void nextStepButton(int[] count, List<Chess> chessList) {
 
@@ -2489,7 +2465,6 @@ public class ChessBoard extends Stage{
 	* @date 2021年3月23日上午8:25:39
 	* @param count
 	* @param chessList
-	* @param pane
 	 */
 	private void nextStep(int[] count, List<Chess> chessList) {
 		if (count[0] == chessList.size()) {
@@ -2514,7 +2489,6 @@ public class ChessBoard extends Stage{
 	* @date 2021年3月23日上午8:26:11
 	* @param count
 	* @param chessList
-	* @param pane
 	 */
 	private void previousStepButton(int[] count, List<Chess> chessList) {
 		Button button = new Button("上一步");
@@ -2536,7 +2510,6 @@ public class ChessBoard extends Stage{
 	* @date 2021年3月23日上午8:26:29
 	* @param count
 	* @param chessList
-	* @param pane
 	 */
 	private void previousStep(int[] count, List<Chess> chessList) {
 		if (count[0] == 0) {
@@ -2554,7 +2527,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月23日上午8:26:58
-	* @param pane
 	 */
 	private void exitChessBook() {
 		Button button = new Button("退谱");
@@ -2605,7 +2577,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月23日下午1:55:02
-	* @param pane
 	 */
 	private void withDrawButton() {
 		Button button = new Button("悔      棋");
@@ -2627,7 +2598,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月23日下午7:28:29
-	* @param pane
 	 */
 	private void withDraw() {
 		// 游戏已经结束
@@ -2673,7 +2643,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月25日上午10:30:47
-	* @param pane
 	 */
 	private void myRecordButton() {
 		Button myRecordButton = new Button("我的战绩");
@@ -2695,7 +2664,6 @@ public class ChessBoard extends Stage{
 	* @author wupgig
 	* @version
 	* @date 2021年3月25日上午10:31:23
-	* @param pane
 	 */
 	private void rivalRecordButton() {
 		Button rivalRecordButton = new Button("对手战绩");
