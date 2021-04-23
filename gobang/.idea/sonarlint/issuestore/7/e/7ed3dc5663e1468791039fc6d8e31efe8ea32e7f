@@ -1,0 +1,31 @@
+
+E
+java:S1444"*Make this "public static myIP" field final(ŠÇ¯»üÿÿÿÿ
+G
+java:S1444",Make this "public static myPort" field final(…ŞòÕüÿÿÿÿ
+B
+java:S1444",Make this "public static oppoIP" field final(ÿ¤®à
+P
+java:S1444"5Make this "public static temporaryOppoIP" field final(Ş§™Èüÿÿÿÿ
+D
+java:S1444".Make this "public static oppoPort" field final(õà·–
+C
+java:S1444"-Make this "public static account" field final(Ó”Æ„
+K
+java:S1444"0Make this "public static chessBoard" field final(ôËÅÃúÿÿÿÿ
+k
+java:S1104"PMake myIP a static final constant or non-public and provide accessors if needed.(ŠÇ¯»üÿÿÿÿ
+m
+java:S1104"RMake myPort a static final constant or non-public and provide accessors if needed.(…ŞòÕüÿÿÿÿ
+h
+java:S1104"RMake oppoIP a static final constant or non-public and provide accessors if needed.(ÿ¤®à
+v
+java:S1104"[Make temporaryOppoIP a static final constant or non-public and provide accessors if needed.(Ş§™Èüÿÿÿÿ
+j
+java:S1104"TMake oppoPort a static final constant or non-public and provide accessors if needed.(õà·–
+i
+java:S1104"SMake account a static final constant or non-public and provide accessors if needed.(Ó”Æ„
+q
+java:S1104"VMake chessBoard a static final constant or non-public and provide accessors if needed.(ôËÅÃúÿÿÿÿ
+O
+java:S1118":Add a private constructor to hide the implicit public one.(¦¹¼

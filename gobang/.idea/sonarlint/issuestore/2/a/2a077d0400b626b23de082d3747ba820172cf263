@@ -1,0 +1,95 @@
+
+O
+java:S1602º",Remove useless curly braces around statement(Ú­¥Üıÿÿÿÿ8ô¾ÛíŒ/
+J
+java:S1602ƒ",Remove useless curly braces around statement(Àúâ8ìÜÕíŒ/
+Y
+java:S2696ö	"6Make the enclosing method "static" or remove this set.(¸»Ôıÿÿÿÿ8û²ÔíŒ/
+s	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î™æÓıÿÿÿÿ8ô¾ÛíŒ/
+G
+java:S1481œ"+Remove this unused "height" local variable.(­„–Ïúÿÿÿÿ
+G
+java:S2140â")Use "java.util.Random.nextInt()" instead.(ûçƒô8û²ÔíŒ/
+O
+java:S1602í",Remove useless curly braces around statement(Ú­¥Üıÿÿÿÿ8±“ŞíŒ/
+F
+java:S1128I"+Remove this unused import 'sun.nio.ch.Net'.(ğ¥Œùÿÿÿÿ
+P
+java:S1135Ÿ"2Complete the task associated to this TODO comment.(‡ñÅ¼8±“ŞíŒ/
+`
+java:S1117Ù"=Rename "chessList" which hides the field declared at line 97.(ë£ùøÿÿÿÿ8‹µŞíŒ/
+P
+java:S1191I"5Use classes from the Java API instead of Sun classes.(ğ¥Œùÿÿÿÿ
+Y
+java:S2696ó	"6Make the enclosing method "static" or remove this set.(¸»Ôıÿÿÿÿ8û²ÔíŒ/
+O
+java:S1602Ä",Remove useless curly braces around statement(Ú­¥Üıÿÿÿÿ8‹µŞíŒ/
+S
+java:S2696ë"6Make the enclosing method "static" or remove this set.(éò§	8û²ÔíŒ/
+T
+java:S2696Æ"6Make the enclosing method "static" or remove this set.(ºßŞ®8ˆÔíŒ/
+Y
+java:S2696§	"6Make the enclosing method "static" or remove this set.(Ëà×şÿÿÿÿ8û²ÔíŒ/
+S
+java:S2696à"6Make the enclosing method "static" or remove this set.(éò§	8û²ÔíŒ/
+S
+java:S1172Ò"0Remove this unused method parameter "chessList".(™ê½Íùÿÿÿÿ8™×àíŒ/
+S
+java:S2696À	"6Make the enclosing method "static" or remove this set.(éò§	8û²ÔíŒ/
+F
+java:S1481›"*Remove this unused "width" local variable.(ÅŸğ±øÿÿÿÿ
+T
+java:S2696—	"6Make the enclosing method "static" or remove this set.(ª¡­Ó8û²ÔíŒ/
+S
+java:S3655Ê"5Call "button.isPresent()" before accessing the value.(”ŠÊ·8û²ÔíŒ/
+O
+java:S1602",Remove useless curly braces around statement(Ú­¥Üıÿÿÿÿ8‰ÁáíŒ/
+T
+java:S2696·	"6Make the enclosing method "static" or remove this set.(ª¡­Ó8û²ÔíŒ/
+T
+java:S2696¦"6Make the enclosing method "static" or remove this set.(–Ôœ‘8û²ÔíŒ/
+|
+java:S2293ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(ß«¦şúÿÿÿÿ8·ıàíŒ/
+J
+java:S1602ö",Remove useless curly braces around statement(—ƒÊé8ìÜÕíŒ/
+S
+java:S3655ÿ"5Call "button.isPresent()" before accessing the value.(”ŠÊ·8û²ÔíŒ/
+f
+java:S1192Ë"JDefine a constant instead of duplicating this literal "æ­¥æ—¶ 60" 4 times.( Œ¶èşÿÿÿÿ
+M
+java:S2696é"6Make the enclosing method "static" or remove this set.(şƒ‰ 
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(éò§	8û²ÔíŒ/
+O
+java:S1602³",Remove useless curly braces around statement(Ú­¥Üıÿÿÿÿ8‹µŞíŒ/
+L
+java:S1172í	".Remove this unused method parameter "message".(Â½Â©8û²ÔíŒ/
+O
+java:S1602“",Remove useless curly braces around statement(ˆÅ¯Àûÿÿÿÿ8áÉÚíŒ/
+Y
+java:S2696Ì	"6Make the enclosing method "static" or remove this set.(Ëà×şÿÿÿÿ8û²ÔíŒ/
+S
+java:S2696Û	"6Make the enclosing method "static" or remove this set.(éò§	8û²ÔíŒ/
+S
+java:S2696¸"6Make the enclosing method "static" or remove this set.(éò§	8û²ÔíŒ/
+?
+java:S1116¸"Remove this empty statement.(õ´‡ùúÿÿÿÿ8û²ÔíŒ/
+O
+java:S1602˜",Remove useless curly braces around statement(Ú­¥Üıÿÿÿÿ8‹µŞíŒ/
+S
+java:S2696ï
+"6Make the enclosing method "static" or remove this set.(éò§	8û²ÔíŒ/
+S
+java:S3655Æ"5Call "button.isPresent()" before accessing the value.(”ŠÊ·8ô¾ÛíŒ/
+O
+java:S1602Ø",Remove useless curly braces around statement(Š¡œüÿÿÿÿ8ìÜÕíŒ/
+P
+java:S1135ƒ"2Complete the task associated to this TODO comment.(‡ñÅ¼8‹µŞíŒ/
+O
+java:S1602«",Remove useless curly braces around statement(Ÿ×şÅøÿÿÿÿ8ìÜÕíŒ/
+S
+java:S3655Ÿ	"5Call "button.isPresent()" before accessing the value.(”ŠÊ·8û²ÔíŒ/
+S
+java:S3655"5Call "button.isPresent()" before accessing the value.(”ŠÊ·8ìÜÕíŒ/
+c
+java:S1117‹"@Rename "mediaPlayer" which hides the field declared at line 181.(ÔÇ–‹øÿÿÿÿ8çÅâíŒ/
